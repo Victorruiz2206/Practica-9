@@ -1,0 +1,29 @@
+void main ()
+
+
+float res;
+float a=10,b=3;
+int c=5;
+
+switch (operator)
+{
+    case 1; 
+    res=suma(a,b);
+    break;
+    
+    case 2:
+    res= resta(a,b);
+    break;
+    
+    case 3:
+    
+    res= multiplicasion(a,b);
+    brack;
+    case 4: 
+    res= division(a,b);
+    break
+    
+    case 6; 
+    res= raiz(a,b);
+    break;
+}
